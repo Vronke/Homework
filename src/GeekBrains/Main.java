@@ -37,6 +37,7 @@ public class Main {
             else
                 System.out.println("Повезёт в другой раз!");
 
+
             System.out.println("Желаешь ещё поиграть? (1 - да / 0 - нет)");
 
             while(true){
